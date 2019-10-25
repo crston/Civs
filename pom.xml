@@ -69,11 +69,10 @@
         </dependency>
 
         <dependency>
-            <groupId>net.Indyuce.mmoitems</groupId>
+            <groupId>net.Indyuce.mmoitems.MMOItems</groupId>
             <artifactId>MMOItems</artifactId>
-            <scope>system</scope>
-            <systemPath>${basedir}/../dependencies/MMOItems Premium.jar</systemPath>
-            <version>4.7.17</version>
+            <version>5.0</version>
+            <scope>provided</scope>
         </dependency>
 
         <dependency>
